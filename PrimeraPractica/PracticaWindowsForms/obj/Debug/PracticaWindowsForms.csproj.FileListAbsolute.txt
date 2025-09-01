@@ -1,0 +1,11 @@
+F:\Guido\TUP\Repositorios\Practica P3\PrimeraPractica\PracticaWindowsForms\bin\Debug\PracticaWindowsForms.exe.config
+F:\Guido\TUP\Repositorios\Practica P3\PrimeraPractica\PracticaWindowsForms\bin\Debug\PracticaWindowsForms.exe
+F:\Guido\TUP\Repositorios\Practica P3\PrimeraPractica\PracticaWindowsForms\bin\Debug\PracticaWindowsForms.pdb
+F:\Guido\TUP\Repositorios\Practica P3\PrimeraPractica\PracticaWindowsForms\obj\Debug\PracticaWindowsForms.csproj.AssemblyReference.cache
+F:\Guido\TUP\Repositorios\Practica P3\PrimeraPractica\PracticaWindowsForms\obj\Debug\PracticaWindowsForms.Form1.resources
+F:\Guido\TUP\Repositorios\Practica P3\PrimeraPractica\PracticaWindowsForms\obj\Debug\PracticaWindowsForms.Properties.Resources.resources
+F:\Guido\TUP\Repositorios\Practica P3\PrimeraPractica\PracticaWindowsForms\obj\Debug\PracticaWindowsForms.csproj.GenerateResource.cache
+F:\Guido\TUP\Repositorios\Practica P3\PrimeraPractica\PracticaWindowsForms\obj\Debug\PracticaWindowsForms.csproj.CoreCompileInputs.cache
+F:\Guido\TUP\Repositorios\Practica P3\PrimeraPractica\PracticaWindowsForms\obj\Debug\PracticaWindowsForms.exe
+F:\Guido\TUP\Repositorios\Practica P3\PrimeraPractica\PracticaWindowsForms\obj\Debug\PracticaWindowsForms.pdb
+F:\Guido\TUP\Repositorios\Practica P3\PrimeraPractica\PracticaWindowsForms\obj\Debug\PracticaWindowsForms.exe.config
