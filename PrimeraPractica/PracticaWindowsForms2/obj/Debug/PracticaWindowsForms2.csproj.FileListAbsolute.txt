@@ -10,3 +10,16 @@ F:\Guido\TUP\Repositorios\Practica P3\PrimeraPractica\PracticaWindowsForms2\obj\
 F:\Guido\TUP\Repositorios\Practica P3\PrimeraPractica\PracticaWindowsForms2\obj\Debug\PracticaWindowsForms2.pdb
 F:\Guido\TUP\Repositorios\Practica P3\PrimeraPractica\PracticaWindowsForms2\obj\Debug\PracticaWindowsForms2.exe.config
 F:\Guido\TUP\Repositorios\Practica P3\PrimeraPractica\PracticaWindowsForms2\obj\Debug\PracticaWindowsForms2.FormPrincipal.resources
+F:\Guido\TUP\Repositorios\Practica P3\Ejercicios-Practica\PrimeraPractica\PracticaWindowsForms2\bin\Debug\PracticaWindowsForms2.exe.config
+F:\Guido\TUP\Repositorios\Practica P3\Ejercicios-Practica\PrimeraPractica\PracticaWindowsForms2\bin\Debug\PracticaWindowsForms2.exe
+F:\Guido\TUP\Repositorios\Practica P3\Ejercicios-Practica\PrimeraPractica\PracticaWindowsForms2\bin\Debug\PracticaWindowsForms2.pdb
+F:\Guido\TUP\Repositorios\Practica P3\Ejercicios-Practica\PrimeraPractica\PracticaWindowsForms2\obj\Debug\PracticaWindowsForms2.csproj.AssemblyReference.cache
+F:\Guido\TUP\Repositorios\Practica P3\Ejercicios-Practica\PrimeraPractica\PracticaWindowsForms2\obj\Debug\PracticaWindowsForms2.exe.config
+F:\Guido\TUP\Repositorios\Practica P3\Ejercicios-Practica\PrimeraPractica\PracticaWindowsForms2\obj\Debug\PracticaWindowsForms2.Form1.resources
+F:\Guido\TUP\Repositorios\Practica P3\Ejercicios-Practica\PrimeraPractica\PracticaWindowsForms2\obj\Debug\PracticaWindowsForms2.FormPrincipal.resources
+F:\Guido\TUP\Repositorios\Practica P3\Ejercicios-Practica\PrimeraPractica\PracticaWindowsForms2\obj\Debug\PracticaWindowsForms2.Properties.Resources.resources
+F:\Guido\TUP\Repositorios\Practica P3\Ejercicios-Practica\PrimeraPractica\PracticaWindowsForms2\obj\Debug\PracticaWindowsForms2.csproj.GenerateResource.cache
+F:\Guido\TUP\Repositorios\Practica P3\Ejercicios-Practica\PrimeraPractica\PracticaWindowsForms2\obj\Debug\PracticaWindowsForms2.csproj.CoreCompileInputs.cache
+F:\Guido\TUP\Repositorios\Practica P3\Ejercicios-Practica\PrimeraPractica\PracticaWindowsForms2\obj\Debug\PracticaWindowsForms2.exe
+F:\Guido\TUP\Repositorios\Practica P3\Ejercicios-Practica\PrimeraPractica\PracticaWindowsForms2\obj\Debug\PracticaWindowsForms2.pdb
+F:\Guido\TUP\Repositorios\Practica P3\Ejercicios-Practica\PrimeraPractica\PracticaWindowsForms2\obj\Debug\PracticaWindowsForms2.Form2.resources

@@ -141,7 +141,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(677, 540);
+            this.ClientSize = new System.Drawing.Size(546, 537);
             this.Controls.Add(this.cmbPais);
             this.Controls.Add(this.dtmFecha);
             this.Controls.Add(this.lblDatosGenerales);
@@ -149,9 +149,11 @@
             this.Controls.Add(this.btAgregar);
             this.Controls.Add(this.lvElementos);
             this.Controls.Add(this.txtTexto);
+            this.MaximumSize = new System.Drawing.Size(562, 576);
+            this.MinimumSize = new System.Drawing.Size(562, 576);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Ventana de primeros datos";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.grbColor.ResumeLayout(false);
             this.grbColor.PerformLayout();
