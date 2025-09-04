@@ -43,5 +43,19 @@ namespace PracticaWindowsForms2
             ventana2.Show();
 
         }
+
+        private void toolStripButton3_Click(object sender, EventArgs e)
+        {
+            foreach(var item in Application.OpenForms)
+            {
+                if (item.GetType() == typeof(Form3))
+                    return;
+            }
+
+            Form3 ventana3 = new Form3();
+            ventana3.MdiParent = this;
+            ventana3.Show();
+        }
+        
     }
 }

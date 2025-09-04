@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CEDEA16E-97B3-4C6A-ACA7-43E1E1626A1B}|PracticaWindowsForms2\\PracticaWindowsForms2.csproj|f:\\guido\\tup\\repositorios\\practica p3\\ejercicios-practica\\primerapractica\\practicawindowsforms2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEDEA16E-97B3-4C6A-ACA7-43E1E1626A1B}|PracticaWindowsForms2\\PracticaWindowsForms2.csproj|solutionrelative:practicawindowsforms2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CEDEA16E-97B3-4C6A-ACA7-43E1E1626A1B}|PracticaWindowsForms2\\PracticaWindowsForms2.csproj|f:\\guido\\tup\\repositorios\\practica p3\\ejercicios-practica\\primerapractica\\practicawindowsforms2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CEDEA16E-97B3-4C6A-ACA7-43E1E1626A1B}|PracticaWindowsForms2\\PracticaWindowsForms2.csproj|solutionrelative:practicawindowsforms2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEDEA16E-97B3-4C6A-ACA7-43E1E1626A1B}|PracticaWindowsForms2\\PracticaWindowsForms2.csproj|f:\\guido\\tup\\repositorios\\practica p3\\ejercicios-practica\\primerapractica\\practicawindowsforms2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEDEA16E-97B3-4C6A-ACA7-43E1E1626A1B}|PracticaWindowsForms2\\PracticaWindowsForms2.csproj|solutionrelative:practicawindowsforms2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEDEA16E-97B3-4C6A-ACA7-43E1E1626A1B}|PracticaWindowsForms2\\PracticaWindowsForms2.csproj|F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\practicawindowsforms2\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEDEA16E-97B3-4C6A-ACA7-43E1E1626A1B}|PracticaWindowsForms2\\PracticaWindowsForms2.csproj|solutionrelative:practicawindowsforms2\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEDEA16E-97B3-4C6A-ACA7-43E1E1626A1B}|PracticaWindowsForms2\\PracticaWindowsForms2.csproj|F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\practicawindowsforms2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CEDEA16E-97B3-4C6A-ACA7-43E1E1626A1B}|PracticaWindowsForms2\\PracticaWindowsForms2.csproj|F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\practicawindowsforms2\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEDEA16E-97B3-4C6A-ACA7-43E1E1626A1B}|PracticaWindowsForms2\\PracticaWindowsForms2.csproj|solutionrelative:practicawindowsforms2\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEDEA16E-97B3-4C6A-ACA7-43E1E1626A1B}|PracticaWindowsForms2\\PracticaWindowsForms2.csproj|F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\practicawindowsforms2\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CEDEA16E-97B3-4C6A-ACA7-43E1E1626A1B}|PracticaWindowsForms2\\PracticaWindowsForms2.csproj|solutionrelative:practicawindowsforms2\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +38,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form2.cs [Dise\u00F1o]",
               "DocumentMoniker": "F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\PracticaWindowsForms2\\Form2.cs",
               "RelativeDocumentMoniker": "PracticaWindowsForms2\\Form2.cs",
               "ToolTip": "F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\PracticaWindowsForms2\\Form2.cs [Dise\u00F1o]",
               "RelativeToolTip": "PracticaWindowsForms2\\Form2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T23:07:09.971Z",
+              "WhenOpened": "2025-09-04T00:02:00.647Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\PracticaWindowsForms2\\Form3.cs",
+              "RelativeDocumentMoniker": "PracticaWindowsForms2\\Form3.cs",
+              "ToolTip": "F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\PracticaWindowsForms2\\Form3.cs",
+              "RelativeToolTip": "PracticaWindowsForms2\\Form3.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T23:24:09.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\PracticaWindowsForms2\\Form3.cs",
+              "RelativeDocumentMoniker": "PracticaWindowsForms2\\Form3.cs",
+              "ToolTip": "F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\PracticaWindowsForms2\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PracticaWindowsForms2\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T23:23:25.822Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "FormPrincipal.cs",
               "DocumentMoniker": "F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\PracticaWindowsForms2\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "PracticaWindowsForms2\\FormPrincipal.cs",
               "ToolTip": "F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\PracticaWindowsForms2\\FormPrincipal.cs",
               "RelativeToolTip": "PracticaWindowsForms2\\FormPrincipal.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAADgvyoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAlwDcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T18:48:41.729Z"
+              "WhenOpened": "2025-08-31T18:48:41.729Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "FormPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\PracticaWindowsForms2\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "PracticaWindowsForms2\\FormPrincipal.cs",
               "ToolTip": "F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\PracticaWindowsForms2\\FormPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "PracticaWindowsForms2\\FormPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T18:34:26.875Z"
+              "WhenOpened": "2025-08-31T18:34:26.875Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\PracticaWindowsForms2\\Form1.cs",
               "RelativeDocumentMoniker": "PracticaWindowsForms2\\Form1.cs",
               "ToolTip": "F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\PracticaWindowsForms2\\Form1.cs",
               "RelativeToolTip": "PracticaWindowsForms2\\Form1.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCsAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T17:32:17.263Z"
+              "WhenOpened": "2025-08-31T17:32:17.263Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\PracticaWindowsForms2\\Form1.cs",
               "RelativeDocumentMoniker": "PracticaWindowsForms2\\Form1.cs",
               "ToolTip": "F:\\Guido\\TUP\\Repositorios\\Practica P3\\Ejercicios-Practica\\PrimeraPractica\\PracticaWindowsForms2\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "PracticaWindowsForms2\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T17:32:13.279Z"
+              "WhenOpened": "2025-08-31T17:32:13.279Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
